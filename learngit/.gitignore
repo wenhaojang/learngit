@@ -1,0 +1,45 @@
+# 忽略系统和用户目录
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Templates/
+「开始」菜单/
+
+# 忽略其他的系统和用户目录和文件
+.config/
+.gitconfig
+.lesshst
+.ssh/
+.texlive2023/
+.vscode-R/
+.vscode/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT{8f58b973-448c-11ee-97df-a50949c3c3c5}.TM.blf
+NTUSER.DAT{8f58b973-448c-11ee-97df-a50949c3c3c5}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{8f58b973-448c-11ee-97df-a50949c3c3c5}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+setup.exe
+yequpython/
+*.pyc
+*~
+__pycache__
+.DS_Store
